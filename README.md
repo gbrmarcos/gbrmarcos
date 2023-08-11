@@ -8,9 +8,6 @@ Fique à vontade para me contatar nas redes sociais!
  <a href="https://www.linkedin.com/in/gbrmarcos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrmarcos&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrmarcos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
