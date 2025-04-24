@@ -1,7 +1,22 @@
-<h3> Oi, eu sou Marcos Gabriel, sou formado em Ciências Contábeis, tenho 24 anos e trabalho atualmente como Analista de Negócios. <h3>
+<h3> (English Below)
+<h1> Oi, eu sou Marcos Gabriel, tenho 27 anos. Sou Analistas de Negócios com vasto contexto em bancos digitais. 
+ 
+<h3> Formado em Ciências Contábeis, atualmente pós-graduando em Ciência de Dados. Possuo bastante experiência em análise preditiva, construção de monitoramentos, políticas e visualização de dados usando Python e Scala.
 
-Fique à vontade para me contatar nas redes sociais!
+<h3> Nintendista, torcedor do Ceará e Jogador de Handebol nas horas vagas, sem ordem específica.
 
+<h3> Fique à vontade para me contatar nas redes sociais!
+
+<h1> Hello, i'm Marcos Gabriel Moura, brazilian and 27 years old. Business Analyst with a vast context in Digital Banks. 
+ 
+<h3> Graduated in Accountancy, currently studying MBA in Data Science. I have a great experience in preditive analysis, monitoring, policy creations and data storytelling using Python and Scala. 
+
+<h3> Nintendo gamer, Ceará SC fan and Handball Player in my spare time, with alternated order.
+
+<h3> Feel free to reach me in social media!
+
+<h3> Languages: Portuguese, English, Spanish.]
+<h3>
 <!-- Contatos -->
  <div>   
 
