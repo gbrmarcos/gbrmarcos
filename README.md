@@ -3,7 +3,7 @@
  
 <h3> Formado em Ciências Contábeis, atualmente pós-graduando em Ciência de Dados. Possuo bastante experiência em análise preditiva, construção de monitoramentos, políticas e visualização de dados usando Python e Scala.
 
-<h3> Nintendista, torcedor do Ceará e Jogador de Handebol nas horas vagas, sem ordem específica.
+<h3> Nintendista, torcedor do Ceará e nadador nas horas vagas, sem ordem específica.
 
 <h3> Fique à vontade para me contatar nas redes sociais!
 
@@ -11,7 +11,7 @@
  
 <h3> Graduated in Accountancy, currently studying MBA in Data Science. I have a great experience in preditive analysis, monitoring, policy creations and data storytelling using Python and Scala. 
 
-<h3> Nintendo gamer, Ceará SC fan and Handball Player in my spare time, with alternated order.
+<h3> Nintendo gamer, Ceará SC fan and swimmer in my spare time, with alternated order.
 
 <h3> Feel free to reach me in social media!
 
